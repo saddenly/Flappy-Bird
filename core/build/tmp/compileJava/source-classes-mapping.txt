@@ -1,0 +1,21 @@
+com/mygdx/game/states/GameStateManager.java
+ com.mygdx.game.states.GameStateManager
+com/mygdx/game/sprites/Background.java
+ com.mygdx.game.sprites.Background
+ com.mygdx.game.sprites.Background$BgPicture
+com/mygdx/game/states/State.java
+ com.mygdx.game.states.State
+com/mygdx/game/states/MenuState.java
+ com.mygdx.game.states.MenuState
+com/mygdx/game/states/RestartState.java
+ com.mygdx.game.states.RestartState
+com/mygdx/game/sprites/Counter.java
+ com.mygdx.game.sprites.Counter
+com/mygdx/game/states/PlayState.java
+ com.mygdx.game.states.PlayState
+com/mygdx/game/MyGdxGame.java
+ com.mygdx.game.MyGdxGame
+com/mygdx/game/sprites/Tube.java
+ com.mygdx.game.sprites.Tube
+com/mygdx/game/sprites/Bird.java
+ com.mygdx.game.sprites.Bird
