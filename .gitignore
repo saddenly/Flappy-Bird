@@ -1,5 +1,6 @@
 /.idea
 /.gradle
+/gradle
 gradle.properties
 build.gradle
 gradlew
